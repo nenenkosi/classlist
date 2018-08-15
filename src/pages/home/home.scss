@@ -1,3 +1,23 @@
 page-home {
+    h1{
+        position: relative;
+        text-align: center;
+        color: white;
+        font-size: 9vh;
+        top: 40%;
+        
+
+    }
+    .btn{
+        margin-top: 120%;
+        color: white;
+        
+    }
+    .bck{
+         height: 100%;
+        width: 100%;
+        background:linear-gradient(160deg,#25e073 40%, #41e9e0 60%);
+        background:cover;
+    }
 
 }
